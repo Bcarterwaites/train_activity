@@ -1,0 +1,25 @@
+body {
+    background-color: lightgrey;
+}
+
+.jumbotron {
+    background-color: #16315b;
+    color: white;
+    font-weight: bold;
+}
+
+
+
+.panel-heading {
+    background-color: #16315b;
+    border-style: solid;
+    border-color: #16315b;
+    color: white;
+    font-weight: bold;
+
+}
+
+.panel-body {
+    border-style: solid;
+    border-color: #16315b;
+}
